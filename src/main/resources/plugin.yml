@@ -1,0 +1,9 @@
+name: MurderMystery
+version: 1.0
+main: me.luicel.MurderMystery
+
+commands:
+  startgame:
+    usage: /<command>
+  stopgame:
+    usage: /<command>
